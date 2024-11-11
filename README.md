@@ -1,6 +1,6 @@
 # LoadBalancer
 
-Basic HTTP Load Balancer (w/o Keep-alive connections for now)
+Basic HTTP Load Balancer (uses Round-robin algorithm, w/o Keep-alive connections for now)
 
 Steps:
 ```
