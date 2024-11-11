@@ -21,4 +21,4 @@ Could use the following to test the load balancer:
 
 `(curl --parallel --parallel-immediate --parallel-max 12 --config urls.txt) > out.txt`
 
-Try stopping and restarting the servers too
+Try stopping and restarting the backend servers too
